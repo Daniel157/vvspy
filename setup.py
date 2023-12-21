@@ -17,10 +17,6 @@ setup(
   package_data={
     "vvspy": ["vvspy/*"]
   },
-  install_requires=[
-          'requests',
-          'typing',
-      ],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
     'Intended Audience :: Developers',
